@@ -14,6 +14,4 @@ first Clone this project by https://github.com/padegalmadhuri/Portfolio.git
 
 And open the index.html file in your browser.
 
-or you can open this locally by 
 
-https://padegalmadhuri.github.io/Portfolio/
